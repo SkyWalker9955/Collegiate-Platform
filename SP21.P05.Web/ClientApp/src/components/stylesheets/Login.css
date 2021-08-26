@@ -1,0 +1,58 @@
+.container {
+    position:relative;
+    text-align: center;
+    left: 37.5%;
+    width:25%;
+    background-Color: #fff6cc;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 25px;
+    border-color: #000000;
+    border-style: outset;
+  }
+
+  .separator {
+    margin-top: 10;
+  }
+
+  .title {
+    font-Size: 30;
+    color: black;
+  }
+
+  .buttonPosition {
+    color: white;
+    text-decoration: none;
+    background-Color: #ff80d5;
+    border:none;
+    border-radius: 12px;
+    height: 35;
+    width: 200;
+    justify-Content: "center";
+    align-Items: "center";
+    margin-Left: 25;
+    padding: 10px;
+  }
+
+  .buttonText {
+    color: "white";
+    text-Align: "center";
+    font-Size: 18;
+  }
+
+  .input {
+    height: 35;
+    width: 200;
+    padding: 5px;
+    margin-Left: 25;
+    border-Bottom-Color: #696969;
+    border-Bottom-Width: 1;
+    justify-Content: "center";
+    align-Items: "center";
+  }
+  .linkButton {
+    color: black;
+    text-Decoration-Line: "underline";
+    align-Items: "center";
+  }

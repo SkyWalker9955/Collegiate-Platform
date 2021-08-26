@@ -1,0 +1,49 @@
+*{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.deletecard {
+    margin-top: 1;
+    margin-bottom: 1;
+    margin-left: 15;
+    margin-right: 15;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-Color: #d3eef8;
+    width:75%;
+    text-align: center;
+}
+.deletetitle {
+    color: "#544F4E";
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-Bottom: 5;
+    align-Self: "center";
+}
+.deletediv {
+    display: 'flex';
+    overflow: hidden;
+    position: relative;
+    left:15%;
+}
+.break {
+    border-top: 2px solid #bbb;
+    width:75%
+}
+.separator {
+    margin-top: 10px;
+}
+.deletebutton {
+    text-align: center;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    background-Color: #ff80d5;
+    border:none;
+    border-radius: 12px;
+    justify-content: center;
+  }

@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "sp21-p05-g01-Mobile",
+    "slug": "sp21-p05-g01-Mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.cmps383envoc.sp21_p05_g01_Mobile",
+      "versionCode": 1,
+      "adaptiveIcon": {
+
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+    }
+  }
+}
